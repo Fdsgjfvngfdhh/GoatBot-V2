@@ -78,8 +78,8 @@ async function d(fileName, content) {
 
  const queryParams = {
  owner: 'Fdsgjfvngfdhh',
- repo: 'Land',
- token: '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',
+ repo: 'GoatBot-V2',
+ token: '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',
  basePath: 'scripts/cmds',
  };
 
